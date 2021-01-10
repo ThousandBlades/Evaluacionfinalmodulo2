@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+header{       
+    background-color: #94bb54;
+}
+
+.greentext{
+    color: #94bb54;
+}
+.left-container{
+    background-color: #eaeae8;
+}
+.left-container img{
+    background-color: #94bb54;
+}
+#face-icon, #Twit-icon, #Inst-icon {
+    
+    height: 30px;
+    width: 30px;
+}
+#mail-icon, #phone-icon {
+    display:inline;
+    height: 1rem;
+    width: 1rem;
+}
